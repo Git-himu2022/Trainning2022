@@ -1,0 +1,23 @@
+// foundation
+@use "../../scss/foundation/base";
+@use "../../scss/foundation/variable";
+
+// layout
+@use "../../scss/layout/header";
+@use "../../scss/layout/footer";
+
+// object
+// component
+@use "../../scss/object/component/inner";
+@use "../../scss/object/component/button";
+@use "../../scss/object/component/section";
+
+// project
+@use "../../scss/object/project/fv";
+@use "../../scss/object/project/theme";
+@use "../../scss/object/project/solution";
+@use "../../scss/object/project/faq";
+@use "../../scss/object/project/cv";
+
+// utility
+@use "../../scss/object/utility/display";
